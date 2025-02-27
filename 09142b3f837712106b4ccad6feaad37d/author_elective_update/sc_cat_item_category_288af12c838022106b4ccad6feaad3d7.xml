@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Base | Function Resgistration">ed4afde8838022106b4ccad6feaad335</sc_cat_item>
+        <sc_category display_value="Bases">bc1975a8838022106b4ccad6feaad3ba</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 19:02:11</sys_created_on>
+        <sys_id>288af12c838022106b4ccad6feaad3d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bases.Base | Function Resgistration</sys_name>
+        <sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope>
+        <sys_update_name>sc_cat_item_category_288af12c838022106b4ccad6feaad3d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 19:02:11</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bases">09142b3f837712106b4ccad6feaad37d</application>
+        <file_path/>
+        <instance_id>908648a61b4dce1819254089bd4bcb5d</instance_id>
+        <instance_name>dev248733</instance_name>
+        <name>sc_cat_item_category_288af12c838022106b4ccad6feaad3d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Base | Function Resgistration">ed4afde8838022106b4ccad6feaad335</sc_cat_item><sc_category display_value="Bases">bc1975a8838022106b4ccad6feaad3ba</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-27 19:02:11</sys_created_on><sys_id>288af12c838022106b4ccad6feaad3d7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bases.Base | Function Resgistration</sys_name><sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package><sys_policy/><sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope><sys_update_name>sc_cat_item_category_288af12c838022106b4ccad6feaad3d7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-27 19:02:11</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1886985099</payload_hash>
+        <record_name>Bases.Base | Function Resgistration</record_name>
+        <reverted_from/>
+        <source>054d99a4830022106b4ccad6feaad31f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 19:02:12</sys_created_on>
+        <sys_id>ac8af12c838022106b4ccad6feaad3db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19548c9af6c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 19:02:12</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>a08af12cf98022106c986c8b675beedb</update_guid>
+        <update_guid_history>a08af12cf98022106c986c8b675beedb:-1886985099</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Bases.Base | Function Resgistration">80d88a6c83c022106b4ccad6feaad364</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 20:04:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0f9c3748af7446f09dfa69a0ef10e900</sys_id>
+        <sys_metadata>288af12c838022106b4ccad6feaad3d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bases.Base | Function Resgistration</sys_name>
+        <sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope>
+        <sys_scope_delete display_value="">016d7073dfde429281f3dba7bc9ba6c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_288af12c838022106b4ccad6feaad3d7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_288af12c838022106b4ccad6feaad3d7">ac8af12c838022106b4ccad6feaad3db</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 20:04:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
