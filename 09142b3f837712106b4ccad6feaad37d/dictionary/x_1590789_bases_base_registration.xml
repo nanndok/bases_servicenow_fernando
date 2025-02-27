@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="0e107fbb83b712106b4ccad6feaad3d7" label="Base Registration" max_length="40" name="x_1590789_bases_base_registration" type="collection">
-        <element label="State" max_length="45" name="state" type="string"/>
+        <element choice="1" label="State" max_length="45" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="TO" sequence="26" value="Tocantins"/>
+                <element inactive_on_update="false" label="MT" sequence="13" value="Mato Grosso"/>
+                <element inactive_on_update="false" label="AL" sequence="2" value="Alagoas"/>
+                <element inactive_on_update="false" label="BA" sequence="5" value="Bahia"/>
+                <element inactive_on_update="false" label="PR" sequence="18" value="Paraná"/>
+                <element inactive_on_update="false" label="DF" sequence="7" value="Distrito Federal"/>
+                <element inactive_on_update="false" label="AC" sequence="1" value="Acre"/>
+                <element inactive_on_update="false" label="ES" sequence="8" value="Espírito Santo"/>
+                <element inactive_on_update="false" label="PA" sequence="14" value="Pará"/>
+                <element inactive_on_update="false" label="AP" sequence="4" value="Amapá"/>
+                <element inactive_on_update="false" label="RO" sequence="21" value="Rondônia"/>
+                <element inactive_on_update="false" label="PI" sequence="17" value="Piauí"/>
+                <element inactive_on_update="false" label="RJ" sequence="19" value="Rio de Janeiro"/>
+                <element inactive_on_update="false" label="AM" sequence="3" value="Amazonas"/>
+                <element inactive_on_update="false" label="PE" sequence="16" value="Pernambuco"/>
+                <element inactive_on_update="false" label="MS" sequence="12" value="Mato Grosso do Sul"/>
+                <element inactive_on_update="false" label="MA" sequence="10" value="Maranhão"/>
+                <element inactive_on_update="false" label="SC" sequence="23" value="Santa Catarina"/>
+                <element inactive_on_update="false" label="PB" sequence="15" value="Paraíba"/>
+                <element inactive_on_update="false" label="MG" sequence="11" value="Minas Gerais"/>
+                <element inactive_on_update="false" label="GO" sequence="9" value="Goiás"/>
+                <element inactive_on_update="false" label="SE" sequence="24" value="Sergipe"/>
+                <element inactive_on_update="false" label="SP" sequence="25" value="São Paulo"/>
+                <element inactive_on_update="false" label="CE" sequence="6" value="Ceará"/>
+                <element inactive_on_update="false" label="RR" sequence="22" value="Roraima"/>
+                <element inactive_on_update="false" label="RN" sequence="20" value="Rio Grande do Norte"/>
+            </choice>
+        </element>
         <element label="Maximum Capacity" max_length="40" name="maximum_capacity" type="integer"/>
         <element label="Temperature" max_length="4" name="temperature" type="string"/>
         <element label="Base Manager" max_length="32" name="base_manager" reference="sys_user" type="reference"/>
