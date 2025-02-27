@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config">
+    <sn_creatorstudio_request_app_config action="DELETE">
+        <color>grouped-blue</color>
+        <icon>briefcase-outline</icon>
+        <is_deleting>false</is_deleting>
+        <name>Bases</name>
+        <request_table>x_1590789_bases_request</request_table>
+        <sys_class_name>sn_creatorstudio_request_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 18:48:03</sys_created_on>
+        <sys_id>f5146b3f837712106b4ccad6feaad33f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bases</sys_name>
+        <sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope>
+        <sys_update_name>sn_creatorstudio_request_app_config_f5146b3f837712106b4ccad6feaad33f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 18:48:03</sys_updated_on>
+    </sn_creatorstudio_request_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bases">09142b3f837712106b4ccad6feaad37d</application>
+        <file_path/>
+        <instance_id>908648a61b4dce1819254089bd4bcb5d</instance_id>
+        <instance_name>dev248733</instance_name>
+        <name>sn_creatorstudio_request_app_config_f5146b3f837712106b4ccad6feaad33f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config"><sn_creatorstudio_request_app_config action="INSERT_OR_UPDATE"><color>grouped-blue</color><icon>briefcase-outline</icon><is_deleting>false</is_deleting><name>Bases</name><request_table>x_1590789_bases_request</request_table><sys_class_name>sn_creatorstudio_request_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-25 18:48:03</sys_created_on><sys_id>f5146b3f837712106b4ccad6feaad33f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bases</sys_name><sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package><sys_policy/><sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope><sys_update_name>sn_creatorstudio_request_app_config_f5146b3f837712106b4ccad6feaad33f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-25 18:48:03</sys_updated_on></sn_creatorstudio_request_app_config></record_update>]]></payload>
+        <payload_hash>-1227051170</payload_hash>
+        <record_name>Bases</record_name>
+        <reverted_from/>
+        <source>4d142b3f837712106b4ccad6feaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 18:48:03</sys_created_on>
+        <sys_id>bd146b3f837712106b4ccad6feaad341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1953e7004120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 18:48:03</sys_updated_on>
+        <type>Request App Config</type>
+        <update_guid>b1146b3f277712108faf55bc20650041</update_guid>
+        <update_guid_history>b1146b3f277712108faf55bc20650041:-1227051170</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Bases">bdd4eb7f837712106b4ccad6feaad3ec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 18:51:19</sys_created_on>
+        <sys_db_object display_value="" name="sn_creatorstudio_request_app_config">sn_creatorstudio_request_app_config</sys_db_object>
+        <sys_id>1a18422fcd2f4cc282fecb5731ca6164</sys_id>
+        <sys_metadata>f5146b3f837712106b4ccad6feaad33f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bases</sys_name>
+        <sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope>
+        <sys_scope_delete display_value="">016d7073dfde429281f3dba7bc9ba6c4</sys_scope_delete>
+        <sys_update_name>sn_creatorstudio_request_app_config_f5146b3f837712106b4ccad6feaad33f</sys_update_name>
+        <sys_update_version display_value="sn_creatorstudio_request_app_config_f5146b3f837712106b4ccad6feaad33f">bd146b3f837712106b4ccad6feaad341</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 18:51:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

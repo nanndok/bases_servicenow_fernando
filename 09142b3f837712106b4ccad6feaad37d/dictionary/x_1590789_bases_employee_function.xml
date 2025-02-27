@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d407b7f383f712106b4ccad6feaad366" label="Employee Function" max_length="40" name="x_1590789_bases_employee_function" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Name" max_length="45" name="name" type="string"/>
+        <element label="Description" max_length="5000" name="description" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

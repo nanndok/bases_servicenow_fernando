@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 18:48:02</sys_created_on>
+        <sys_id>f5146b3f837712106b4ccad6feaad32f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1590789_bases_request.x_1590789_bases.agent</sys_name>
+        <sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope>
+        <sys_security_acl display_value="x_1590789_bases_request">39146b3f837712106b4ccad6feaad32c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f5146b3f837712106b4ccad6feaad32f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 18:48:02</sys_updated_on>
+        <sys_user_role display_value="x_1590789_bases.agent" name="x_1590789_bases.agent">25142b3f837712106b4ccad6feaad3f6</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bases">09142b3f837712106b4ccad6feaad37d</application>
+        <file_path/>
+        <instance_id>908648a61b4dce1819254089bd4bcb5d</instance_id>
+        <instance_name>dev248733</instance_name>
+        <name>sys_security_acl_role_f5146b3f837712106b4ccad6feaad32f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-25 18:48:02</sys_created_on><sys_id>f5146b3f837712106b4ccad6feaad32f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1590789_bases_request.x_1590789_bases.agent</sys_name><sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package><sys_policy/><sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope><sys_security_acl display_value="x_1590789_bases_request">39146b3f837712106b4ccad6feaad32c</sys_security_acl><sys_update_name>sys_security_acl_role_f5146b3f837712106b4ccad6feaad32f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-25 18:48:02</sys_updated_on><sys_user_role display_value="x_1590789_bases.agent" name="x_1590789_bases.agent">25142b3f837712106b4ccad6feaad3f6</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-759643893</payload_hash>
+        <record_name>x_1590789_bases_request.x_1590789_bases.agent</record_name>
+        <reverted_from/>
+        <source>4d142b3f837712106b4ccad6feaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 18:48:02</sys_created_on>
+        <sys_id>f1146b3f837712106b4ccad6feaad332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1953e7001ad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 18:48:02</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>f5146b3f56771210ea0d7239bd175431</update_guid>
+        <update_guid_history>f5146b3f56771210ea0d7239bd175431:-759643893</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1590789_bases_request.x_1590789_bases.agent">b0d4eb7f837712106b4ccad6feaad33c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 18:51:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>394f23bf15944b008f9a0159fc6a4000</sys_id>
+        <sys_metadata>f5146b3f837712106b4ccad6feaad32f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1590789_bases_request.x_1590789_bases.agent</sys_name>
+        <sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package>
+        <sys_parent display_value="">39146b3f837712106b4ccad6feaad32c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope>
+        <sys_scope_delete display_value="">016d7073dfde429281f3dba7bc9ba6c4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f5146b3f837712106b4ccad6feaad32f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f5146b3f837712106b4ccad6feaad32f">f1146b3f837712106b4ccad6feaad332</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 18:51:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

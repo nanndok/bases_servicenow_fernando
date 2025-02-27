@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0e107fbb83b712106b4ccad6feaad3d7" label="Base Registration" max_length="40" name="x_1590789_bases_base_registration" type="collection">
+        <element label="State" max_length="45" name="state" type="string"/>
+        <element label="Maximum Capacity" max_length="40" name="maximum_capacity" type="integer"/>
+        <element label="Temperature" max_length="4" name="temperature" type="string"/>
+        <element label="Base Manager" max_length="32" name="base_manager" reference="sys_user" type="reference"/>
+        <element label="Name" max_length="45" name="name" type="string"/>
+        <element label="Longitude" max_length="45" name="longitude" type="string"/>
+        <element label="City" max_length="45" name="city" type="string"/>
+        <element label="Available Spaces" max_length="40" name="available_spaces" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Latitude" max_length="45" name="latitude" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="base_manager"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
