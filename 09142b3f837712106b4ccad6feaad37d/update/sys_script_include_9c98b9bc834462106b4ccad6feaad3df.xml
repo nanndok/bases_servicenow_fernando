@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1590789_bases.BasesUtilsAjax</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>BasesUtilsAjax</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var BasesUtilsAjax = Class.create();
+BasesUtilsAjax.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+
+	updateSpaces: function() {
+        var grBase = new GlideRecord('x_1590789_bases_base_registration'); 
+		var baseNameSysId = this.getParameter('sysparm_base_name');
+
+        if (grBase.get(baseNameSysId)) {
+			grBase.available_spaces--; // Reduz o número de vagas disponíveis
+            grBase.update(); // Salva as alterações
+            return true;
+        } else {
+            return false;
+        }
+    },
+
+
+	updateStatus: function() {
+        var grRegistration = new GlideRecord('x_1590789_bases_user_registration'); 
+		var registrationSysId = this.getParameter('sysparm_registration_name');
+
+		gs.info(registrationSysId + "  EAID REGISTRATION");
+
+        if (grRegistration.get(registrationSysId)) {
+			gs.info("Entrou no registrationSysId");
+			grRegistration.setValue('state', "3");
+            grRegistration.update(); // Salva as alterações
+            return true;
+        } else {
+			gs.info("Não entrou no registrationSysId");
+            return false;
+        }
+    },
+
+    type: 'BasesUtilsAjax'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-28 13:33:59</sys_created_on>
+        <sys_id>9c98b9bc834462106b4ccad6feaad3df</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>BasesUtilsAjax</sys_name>
+        <sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope>
+        <sys_update_name>sys_script_include_9c98b9bc834462106b4ccad6feaad3df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-28 22:18:12</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>9c98b9bc834462106b4ccad6feaad3df</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-28 13:33:58</sys_created_on>
+        <sys_id>52f8b9bc834462106b4ccad6feaad3e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-28 13:33:58</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
