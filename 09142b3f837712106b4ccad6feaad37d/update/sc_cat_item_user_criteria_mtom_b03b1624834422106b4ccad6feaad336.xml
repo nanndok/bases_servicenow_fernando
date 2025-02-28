@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Base | Function Resgistration">23070a6883c022106b4ccad6feaad349</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 21:25:01</sys_created_on>
+        <sys_id>b03b1624834422106b4ccad6feaad336</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Base | Function Resgistration.Bases Users</sys_name>
+        <sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_b03b1624834422106b4ccad6feaad336</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 21:25:01</sys_updated_on>
+        <user_criteria display_value="Bases Users">050b1224834422106b4ccad6feaad38c</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>
