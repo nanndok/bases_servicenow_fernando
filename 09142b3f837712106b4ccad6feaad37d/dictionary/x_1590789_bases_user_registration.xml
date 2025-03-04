@@ -2,5 +2,6 @@
     <element db_object_id="2ff44cc0830822106b4ccad6feaad367" extends="task" label="User Registration" max_length="40" name="x_1590789_bases_user_registration" type="collection">
         <element label="Function" max_length="32" name="function" reference="x_1590789_bases_employee_function" type="reference"/>
         <element label="Base" max_length="32" name="base" reference="x_1590789_bases_base_registration" reference_floats="true" reference_qual="available_spaces&gt;0^EQ" reference_qual_condition="available_spaces&gt;0^EQ" type="reference"/>
+        <element label="Reproval Reason" max_length="4000" name="reproval_reason" type="string"/>
     </element>
 </database>
