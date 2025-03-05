@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization">
+    <par_visualization action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <macroponent display_value="List - Simple">2b1c080881e05dc63b917044290b233f</macroponent>
+        <name>Base Manager Report</name>
+        <properties>{"columns":"number,base,assigned_to,function,opened_by,state,opened_at","fixedQuery":"","hideColumnFiltering":false,"hideColumnGrouping":false,"hideColumnReorder":false,"hideColumnResizing":false,"hideColumnSorting":false,"hideDotwalk":false,"hideEmptyStateImage":false,"hideHeader":false,"hideHighlightContent":false,"hideHighlightedValues":false,"hideInlineEditing":false,"hideLastRefreshedText":true,"hideLinks":false,"hidePersonalization":true,"hideRefreshButton":false,"hideRowSelector":false,"hideTitle":false,"hideTitleRowCount":false,"hideViewAll":false,"highlightContent":{"color":"","patterns":[]},"highlightedValueConfigId":"","limit":20,"listTitle":"Base Manager Report","maxCharLimit":4000,"maxColumns":7.0,"overrideWordWrapUserPref":false,"query":"state=3^base.base_managerDYNAMIC90d1921e5f510100a9ad2572f2b477fe","refreshRequested":"","table":"x_1590789_bases_user_registration","wordWrap":false}</properties>
+        <requested_by/>
+        <scheduled_count/>
+        <sys_class_name>par_visualization</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-03 17:53:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f80dfa0393b8f6b7567b4baa61925dd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Base Manager Report</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope>
+        <sys_update_name>par_visualization_1f80dfa0393b8f6b7567b4baa61925dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-04 17:27:40</sys_updated_on>
+        <type>List - Simple</type>
+    </par_visualization>
+</record_update>

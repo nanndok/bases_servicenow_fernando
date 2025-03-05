@@ -31,7 +31,7 @@
             </choice>
         </element>
         <element label="Maximum Capacity" max_length="40" name="maximum_capacity" type="integer"/>
-        <element label="Temperature" max_length="4" name="temperature" type="string"/>
+        <element label="Temperature" max_length="5" name="temperature" type="string"/>
         <element label="Base Manager" max_length="32" name="base_manager" reference="sys_user" reference_qual="javascript:new BasesUtils().getAvailableManagers();" type="reference" use_reference_qualifier="advanced"/>
         <element label="Name" max_length="45" name="name" type="string"/>
         <element label="Longitude" max_length="45" name="longitude" type="string"/>

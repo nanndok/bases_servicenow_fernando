@@ -31,9 +31,9 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	var name = current.name.toString().trim();  // Supondo que o campo do nome é "name"
-    var city = current.city.toString().trim();    // Supondo que o campo da cidade é "city"
-    var state = current.state.toString().trim();   // Supondo que o campo do estado é "state"
+	var name = current.name.toString().trim(); 
+    var city = current.city.toString().trim();    
+    var state = current.state.toString().trim();   
 
     // Verifica se já existe uma base com o mesmo nome
     var grNome = new GlideRecord('x_1590789_bases_base_registration');
@@ -72,7 +72,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d01ab7a4830c22106b4ccad6feaad3ee</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>ValidateBaseInformation</sys_name>
         <sys_overrides/>
         <sys_package display_value="Bases" source="x_1590789_bases">09142b3f837712106b4ccad6feaad37d</sys_package>
@@ -80,7 +80,7 @@
         <sys_scope display_value="Bases">09142b3f837712106b4ccad6feaad37d</sys_scope>
         <sys_update_name>sys_script_d01ab7a4830c22106b4ccad6feaad3ee</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-28 04:53:25</sys_updated_on>
+        <sys_updated_on>2025-03-05 00:56:41</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
