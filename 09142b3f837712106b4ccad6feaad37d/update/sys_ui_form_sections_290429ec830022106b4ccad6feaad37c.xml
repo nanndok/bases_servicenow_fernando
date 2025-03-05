@@ -17,16 +17,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-27 17:23:58</sys_created_on>
+            <sys_created_on>2025-03-05 15:00:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2d0429ec830022106b4ccad6feaad381</sys_id>
+            <sys_id>b7bcbfd6834426106b4ccad6feaad397</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1590789_bases_user_registration" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">290429ec830022106b4ccad6feaad37c</sys_ui_form>
-            <sys_ui_section caption="User Function" display_value="User Function" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">210429ec830022106b4ccad6feaad37a</sys_ui_section>
+            <sys_ui_section caption="User Function" display_value="User Function" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">a3bc7fd6834426106b4ccad6feaad3e4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-27 17:23:58</sys_updated_on>
+            <sys_updated_on>2025-03-05 15:00:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1590789_bases_user_registration</name>

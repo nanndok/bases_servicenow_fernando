@@ -1,100 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="5c05804883c422106b4ccad6feaad3a1" sys_domain="global" table="x_1590789_bases_user_registration" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>work_start</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-28 03:59:02</sys_created_on>
-            <sys_id>a865b760830c22106b4ccad6feaad349</sys_id>
+            <sys_created_on>2025-03-05 15:02:56</sys_created_on>
+            <sys_id>924d7b1a834426106b4ccad6feaad3db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-28 03:59:02</sys_updated_on>
+            <sys_updated_on>2025-03-05 15:02:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-05 15:02:56</sys_created_on>
+            <sys_id>1a4d7b1a834426106b4ccad6feaad3db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-05 15:02:56</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-05 15:02:56</sys_created_on>
+            <sys_id>9e4d7b1a834426106b4ccad6feaad3db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-05 15:02:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>base</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-28 03:59:02</sys_created_on>
-            <sys_id>e465b760830c22106b4ccad6feaad34a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-28 03:59:02</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-28 03:59:02</sys_created_on>
-            <sys_id>ec65b760830c22106b4ccad6feaad34a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-28 03:59:02</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-28 03:59:02</sys_created_on>
-            <sys_id>e465b760830c22106b4ccad6feaad34b</sys_id>
+            <sys_created_on>2025-03-05 15:02:56</sys_created_on>
+            <sys_id>164d7b1a834426106b4ccad6feaad3dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-28 03:59:02</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-28 03:59:02</sys_created_on>
-            <sys_id>ec65b760830c22106b4ccad6feaad34b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-28 03:59:02</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>base.base_manager</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-28 03:59:02</sys_created_on>
-            <sys_id>e465b760830c22106b4ccad6feaad34c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-28 03:59:02</sys_updated_on>
+            <sys_updated_on>2025-03-05 15:02:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reproval_reason</element>
-            <position>6</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-03 17:04:54</sys_created_on>
-            <sys_id>dd06ce79838462106b4ccad6feaad325</sys_id>
+            <sys_created_on>2025-03-05 15:02:56</sys_created_on>
+            <sys_id>9a4d7b1a834426106b4ccad6feaad3dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-03 17:04:54</sys_updated_on>
+            <sys_updated_on>2025-03-05 15:02:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-05 15:02:56</sys_created_on>
+            <sys_id>124d7b1a834426106b4ccad6feaad3dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-05 15:02:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-05 15:02:56</sys_created_on>
+            <sys_id>964d7b1a834426106b4ccad6feaad3dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-05 15:02:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>base.base_manager</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-05 15:02:56</sys_created_on>
+            <sys_id>1e4d7b1a834426106b4ccad6feaad3dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">5c05804883c422106b4ccad6feaad3a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-05 15:02:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
