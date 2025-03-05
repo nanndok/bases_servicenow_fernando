@@ -1,44 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="User Function" section_id="a3bc7fd6834426106b4ccad6feaad3e4" sys_domain="global" table="x_1590789_bases_user_registration" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>opened_by</element>
+            <element>function</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-05 15:00:35</sys_created_on>
-            <sys_id>bbbcbfd6834426106b4ccad6feaad3a5</sys_id>
+            <sys_created_on>2025-03-05 15:16:41</sys_created_on>
+            <sys_id>b760cc2e834426106b4ccad6feaad3b7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="User Function" display_value="User Function" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">a3bc7fd6834426106b4ccad6feaad3e4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-05 15:00:35</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>function</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-05 15:00:35</sys_created_on>
-            <sys_id>33bcbfd6834426106b4ccad6feaad3a6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="User Function" display_value="User Function" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">a3bc7fd6834426106b4ccad6feaad3e4</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-05 15:00:35</sys_updated_on>
+            <sys_updated_on>2025-03-05 15:16:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>function.description</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-05 15:00:35</sys_created_on>
-            <sys_id>b7bcbfd6834426106b4ccad6feaad3a6</sys_id>
+            <sys_created_on>2025-03-05 15:16:41</sys_created_on>
+            <sys_id>bf60cc2e834426106b4ccad6feaad3b7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="User Function" display_value="User Function" name="x_1590789_bases_user_registration" sys_domain="global" view="Default view">a3bc7fd6834426106b4ccad6feaad3e4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-05 15:00:35</sys_updated_on>
+            <sys_updated_on>2025-03-05 15:16:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
